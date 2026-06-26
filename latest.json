@@ -1,6 +1,6 @@
 {
-    "versionCode":  13,
-    "versionName":  "0.1.5-alpha",
+    "versionCode":  12,
+    "versionName":  "0.1.4-alpha",
     "downloadUrl":  "https://maxr99.itch.io/kirin-rpgmaker-xp-emulator-for-android",
     "releaseNotes":  "Compatibility fixes and stability improvements.",
     "required":  false,
