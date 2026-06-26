@@ -1,0 +1,8 @@
+{
+  "versionCode": 13,
+  "versionName": "0.1.5-alpha",
+  "downloadUrl": "https://github.com/shogun-drei/kirin-updates/releases/download/v0.1.5-alpha/kirin-0.1.5-alpha-x86_64.apk",
+  "releaseNotes": "Compatibility fixes and stability improvements.",
+  "required": false,
+  "minSupportedVersionCode": 0
+}
