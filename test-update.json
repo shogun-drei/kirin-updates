@@ -1,0 +1,8 @@
+{
+  "versionCode": 14,
+  "versionName": "0.1.6-alpha test",
+  "downloadUrl": "https://maxr99.itch.io/kirin-rpgmaker-xp-emulator-for-android",
+  "releaseNotes": "Test update prompt. This does not change the public release feed.",
+  "required": false,
+  "minSupportedVersionCode": 0
+}
