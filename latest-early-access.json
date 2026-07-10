@@ -1,8 +1,8 @@
 {
-    "versionCode": 16,
-    "versionName": "0.2.1-alpha-early-access",
+    "versionCode": 17,
+    "versionName": "0.2.2-alpha-early-access",
     "downloadUrl": "https://www.patreon.com/kirin_app/",
-    "releaseNotes": "Early access compatibility fixes and stability improvements.",
+    "releaseNotes": "Mejoras de rendimiento, compatibilidad con juegos y ajustes de gamepad.",
     "required": false,
     "minSupportedVersionCode": 0
 }
