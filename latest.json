@@ -1,8 +1,8 @@
 {
-    "versionCode":  14,
-    "versionName":  "0.1.6-alpha",
-    "downloadUrl":  "https://maxr99.itch.io/kirin-rpgmaker-xp-emulator-for-android",
-    "releaseNotes":  "Improved path cache handling to increase performance in compatible games. Added per-game path cache setting and an option to delete path cache files, which may help fix startup or graphics issues.",
+    "versionCode":  18,
+    "versionName":  "0.3.0",
+    "downloadUrl":  "https://x.com/gmaxr99",
+    "releaseNotes":  "Grandes cambios.",
     "required":  false,
     "minSupportedVersionCode":  0
 }
