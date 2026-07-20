@@ -1,8 +1,8 @@
 {
-    "versionCode":  19,
-    "versionName":  "0.3.1",
-    "downloadUrl":  "https://x.com/gmaxr99",
-    "releaseNotes":  "Corrección de errores y mejoras de rendimiento.",
-    "required":  false,
-    "minSupportedVersionCode":  0
+    "versionCode": 20,
+    "versionName": "0.3.2",
+    "downloadUrl": "https://x.com/gmaxr99",
+    "releaseNotes": "Corrección de errores y mejoras de rendimiento.",
+    "required": false,
+    "minSupportedVersionCode": 0
 }
