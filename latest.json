@@ -1,8 +1,8 @@
 {
-    "versionCode": 21,
-    "versionName": "0.3.3",
-    "downloadUrl": "https://github.com/shogun-drei/kirin-updates/releases/download/0.3.3/Kirin-0.3.3-arm64-v8a-www.playkirin.com.apk",
-    "releaseNotes": "Fix Rejuv.",
+    "versionCode": 23,
+    "versionName": "0.3.5",
+    "downloadUrl": "https://github.com/shogun-drei/kirin-updates/releases/download/0.3.5/Kirin-0.3.5-arm64-v8a-www.playkirin.com.apk",
+    "releaseNotes": "New features, performance improvements, and bug fixes.",
     "required": false,
     "minSupportedVersionCode": 0
 }
