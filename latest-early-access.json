@@ -1,7 +1,7 @@
 {
-    "versionCode": 17,
-    "versionName": "0.2.2-alpha-early-access",
-    "downloadUrl": "https://www.patreon.com/kirin_app/",
+    "versionCode": 24,
+    "versionName": "0.4.0",
+    "downloadUrl": "https://github.com/shogun-drei/kirin-updates/releases/download/0.4.0/Kirin-0.4.0-arm64-v8a-www.playkirin.com.apk",
     "releaseNotes": "Mejoras de rendimiento, compatibilidad con juegos y ajustes de gamepad.",
     "required": false,
     "minSupportedVersionCode": 0
