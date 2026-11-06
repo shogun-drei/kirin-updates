@@ -1,7 +1,7 @@
 {
     "versionCode": 24,
     "versionName": "0.4.0",
-    "downloadUrl": "https://github.com/shogun-drei/kirin-updates/releases/download/0.4.0/Kirin-0.4.0-arm64-v8a-www.playkirin.com.apk",
+    "downloadUrl": "https://www.playkirin.com",
     "releaseNotes": "Improved performance, bug fixes, enhanced controls, real-time translation, and more.",
     "required": false,
     "minSupportedVersionCode": 0
